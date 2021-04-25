@@ -1,0 +1,67 @@
+* { box-sizing: border-box; }
+body{
+	font-size: 14px;
+	color: white;
+	background-image:linear-gradient(to right, #141e30,#243b55); !important;
+	font-family: 'Oxygen', sans-serif;
+    
+}
+
+#header{
+	background-image:linear-gradient(to right, #bdc3c7,#2c3e50); !important;
+	
+}
+#logo-img{
+	background-image: url('../img/Finallogo-PixTeller.png');
+    border: solid #bdc3c7   ;
+	width: 150px;
+	height: 150px;
+	margin: 10px, 15px, 10px,0px;
+	
+}
+.navbar-brand  {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  
+  color: rgb(0,0,0);
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #808a9c  ;
+  margin-top: ;
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+.navbar-brand a{
+  text-decoration: none;
+ 
+
+}
+.navbar-brand span {
+	color: rgb(0,0,0);
+}
+#nav-list{
+	margin-top: 10px
+
+	
+}
+#nav-list a{
+	color: rgb(0,0,0);
+	text-align: center;
+	font-size: 1.2em;
+	padding-right: 1.5em;
+	padding-left: 1.5em;
+	
+}
+#nav-list a:hover {
+
+background: #808a9c;
+
+display: block;
+}
+#menu{
+	text-align: center;
+	font-size: 29px;
+}
